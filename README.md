@@ -1,1 +1,3 @@
 # character-image-generator
+後でちゃんとスクリプトにまとめる
+フォントは例で1個だけ入れておく
